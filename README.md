@@ -1,34 +1,57 @@
-### Hi there 👋, Mahdikhodadadi
-#### This is webinawp , A Junior WordPress developer
-![This is webinawp , A Junior WordPress developer](https://webinawp.com/)
+<p align="center">
+  <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
+</p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# 1995parham 🐼
 
-Skills: CSS3 HTML5 JavaScript PHP Firebase Netlify GithubPages jQuery WordPress Apache Nginx MariaDB MySQL MongoDB Adobe Photoshop Figma Git GitHub
+<p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=1995parham&theme=onedark" />
+</p>
 
-- 🔭 I’m currently working on 🔭 I’m currently working on... 
-- 🌱 I’m currently learning 🌱 I’m currently learning... 
-- 👯 I’m looking to collaborate on 👯 I want to collaborate on... 
-- 🤔 I’m looking for help with 🤔 I’m looking for help with... 
-- 💬 Ask me about 💬 Ask me about... 
-- 📫 How to reach me: 📫 How to reach me: 
-- 😄 Pronouns: 😄 Pronouns: 
-- ⚡ Fun fact: ⚡ Fun fact: 
+## About Me
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/1995parham/1995parham.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/1995parham/1995parham.pdf/releases/latest)
+[![Elahe Dastan](https://img.shields.io/badge/-elahe.dstn-black?style=for-the-badge&label=%F0%9F%A7%A1)](https://github.com/elahe-dastan)
+
+I'm a Backend Developer at Snapp! and my favorite language
+is Golang since 2014 when I fell in love with it.
+I know Python too and always eager to learn.
+I love open-source and try to develop useful and tangible software.
+I have experience with Frontend development too, but it dates long ago.
+I live in Iran, Tehran and I love my country.
+I can summarize me and my life with the following code:
+
+```go
+go inLove([]string{"@elahe-dastan", "c", "golang", "python3", "react", "rust"})
+go research([]string{})
+
+for aLive() == true {
+  eat()
+  code()
+  if haveTime() {
+    checkEMail()
+  }
+  sleep()
+}
+```
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahdikhodadadi-avali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahdikhodadadiavali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahdikhodadadi_avali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](webinawp.com)  
+<p align="center">
+  <img src="https://github.com/1995parham/1995parham/blob/main/bernard.gif?raw=true" alt="Bernard" />
+</p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+## Organizations
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahdikhodadadi-avali)](https://github.com/ryo-ma/github-profile-trophy)
+- [Lectures and courses that I taught](https://github.com/1995parham-teaching/)
+- [Ph.D. Research](https://github.com/citado/)
+- [M.Sc. Research](https://github.com/reinnet/)
+- [B.Sc., M.Sc. and Ph.D. Courses that I passed since 2013](https://github.com/9231058)
+- [Personal learning on programming languages and other technical stuffs](https://github.com/1995parham-learning)
+- [Snapp!](https://github.com/snapp-incubator/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdikhodadadi-avali)](https://github.com/anuraghazra/github-readme-stats)
+## Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdikhodadadi-avali&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mahdikhodadadi-avali/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mahdikhodadadi-avali)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahdikhodadadi-avali)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
+</p>
