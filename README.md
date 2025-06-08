@@ -26,11 +26,9 @@ Skills: CSS3 HTML5 JavaScript PHP Firebase Netlify GithubPages jQuery WordPress 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdikhodadadi-avali&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mahdikhodadadi-avali/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mahdikhodadadi-avali)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahdikhodadadi-avali)  
+
+
 
 
 <p align="center">
@@ -38,9 +36,3 @@ Skills: CSS3 HTML5 JavaScript PHP Firebase Netlify GithubPages jQuery WordPress 
 </p>
 
 
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1995parham&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1995parham&theme=monokai" alt="Parham Alvani's Github Steak" /><br>
-</p>
